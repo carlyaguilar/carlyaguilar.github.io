@@ -1,0 +1,14 @@
+body {
+	background-color: blue;
+}
+h1 {
+	color: pink;
+	text-align: center;
+}
+p { 
+    color: black;
+}
+a{
+	text-decoration: none;	
+	front-weight: bold;
+}
